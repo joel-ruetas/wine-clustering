@@ -1,6 +1,6 @@
 # wine-clustering
 
-![pexels-polina-kovaleva-7282891](https://github.com/joel-ruetas/wine-clustering/assets/141535387/7fc26d13-2393-40f2-8edf-2aee37f8316e)
+![pexels-timur-saglambilek-66636](https://github.com/joel-ruetas/wine-clustering/assets/141535387/29e30e3e-6cf9-4070-a039-3eb8d4b26738)
 
 This research employs clustering, an unsupervised machine learning method, to classify wines according to their physicochemical characteristics. Its objective is to categorize wines with akin chemical properties, thereby enabling tailored wine recommendations derived from these characteristics.
 
