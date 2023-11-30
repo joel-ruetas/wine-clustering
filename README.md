@@ -1,4 +1,7 @@
 # wine-clustering
+
+![pexels-polina-kovaleva-7282891](https://github.com/joel-ruetas/wine-clustering/assets/141535387/7fc26d13-2393-40f2-8edf-2aee37f8316e)
+
 This research employs clustering, an unsupervised machine learning method, to classify wines according to their physicochemical characteristics. Its objective is to categorize wines with akin chemical properties, thereby enabling tailored wine recommendations derived from these characteristics.
 
 The study recognizes that factors like grape type, region, and vintage significantly impact wine flavors. However, it emphasizes the role of physicochemical attributes such as pH, density, residual sugars, and sulphates in influencing the more subtle aspects of flavor. It suggests that wines with analogous chemical structures could exhibit similar taste profiles, independent of their geographic origin or vintage year.
